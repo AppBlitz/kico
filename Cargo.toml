@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-wayland-client = "0.31.15"
+wayland-server = "0.31.14"
